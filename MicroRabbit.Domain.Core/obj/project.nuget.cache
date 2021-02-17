@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c1lSFwtq65S9CE5eyYw4SaKA37UUsBRzKGwJyZvnlUx3JasyBICHr9Mk47snoyLeo3kUAqwRbt6fkRWx+LS1JQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mina Nasser\\source\\repos\\MicroServicesRabbitMQProject\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mina Nasser\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

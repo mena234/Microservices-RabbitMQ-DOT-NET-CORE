@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9dXL5ORyhZi232jIvsdOwP1U1Z+BlbsZMQC7lrkHrsNLcKfk9vVi+09s3lKzxGi0y0nfMIn4GiRxnoN0YakB4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mina Nasser\\source\\repos\\MicroServicesRabbitMQProject\\MicroRabbit.Infra.TransferServicesDependanceInjection\\MicroRabbit.Infra.TransferServicesDependanceInjection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mina Nasser\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
+    "C:\\Users\\Mina Nasser\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.8\\microsoft.extensions.dependencyinjection.3.1.8.nupkg.sha512",
+    "C:\\Users\\Mina Nasser\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.8\\microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Banking.Application\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Application.deps.json
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Banking.Application\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Application.dll
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Banking.Application\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Application.pdb
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Banking.Application\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.dll
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Banking.Application\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.pdb
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Banking.Application\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Application.csprojAssemblyReference.cache
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Banking.Application\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Application.AssemblyInfoInputs.cache
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Banking.Application\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Application.AssemblyInfo.cs
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Banking.Application\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Application.csproj.CoreCompileInputs.cache
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Banking.Application\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Application.csproj.CopyComplete
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Banking.Application\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Application.dll
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Banking.Application\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Application.pdb
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Banking.Application\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Banking.Application\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb

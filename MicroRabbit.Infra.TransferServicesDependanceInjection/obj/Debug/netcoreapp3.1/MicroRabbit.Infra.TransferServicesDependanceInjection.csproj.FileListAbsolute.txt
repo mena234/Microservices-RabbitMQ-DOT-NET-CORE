@@ -1,0 +1,5 @@
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Infra.TransferServicesDependanceInjection\bin\Debug\netcoreapp3.1\MicroRabbit.Infra.TransferServicesDependanceInjection.deps.json
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Infra.TransferServicesDependanceInjection\bin\Debug\netcoreapp3.1\MicroRabbit.Infra.TransferServicesDependanceInjection.dll
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Infra.TransferServicesDependanceInjection\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.TransferServicesDependanceInjection.csprojAssemblyReference.cache
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Infra.TransferServicesDependanceInjection\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.TransferServicesDependanceInjection.AssemblyInfoInputs.cache
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Infra.TransferServicesDependanceInjection\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.TransferServicesDependanceInjection.AssemblyInfo.cs

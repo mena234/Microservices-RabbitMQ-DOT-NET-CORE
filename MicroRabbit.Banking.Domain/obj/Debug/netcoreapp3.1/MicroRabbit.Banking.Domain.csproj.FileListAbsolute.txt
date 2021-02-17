@@ -1,0 +1,12 @@
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Banking.Domain\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.deps.json
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Banking.Domain\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.dll
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Banking.Domain\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.pdb
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.csprojAssemblyReference.cache
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.AssemblyInfoInputs.cache
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.AssemblyInfo.cs
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.dll
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.pdb
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Banking.Domain\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Banking.Domain\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.csproj.CopyComplete

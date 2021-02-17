@@ -1,0 +1,16 @@
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.deps.json
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.dll
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.csprojAssemblyReference.cache
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.AssemblyInfoInputs.cache
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.AssemblyInfo.cs
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.csproj.CopyComplete
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.pdb
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.dll
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.pdb
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Application.dll
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.dll
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Application.pdb
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.pdb
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.csproj.CoreCompileInputs.cache

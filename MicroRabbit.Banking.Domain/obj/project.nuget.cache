@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kva1L51cw9mFEWUMPsgROFazMsQ8yLqh5ygd2bAMVD7pfIPF+EzKBpg07Oa77Nrm1ONZAmnDdxI2hEfZc4EDSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mina Nasser\\source\\repos\\MicroServicesRabbitMQProject\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mina Nasser\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

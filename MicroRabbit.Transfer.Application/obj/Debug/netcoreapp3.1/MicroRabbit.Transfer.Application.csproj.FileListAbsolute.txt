@@ -1,0 +1,14 @@
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Transfer.Application\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Application.deps.json
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Transfer.Application\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Application.dll
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Transfer.Application\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Application.pdb
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Application.csprojAssemblyReference.cache
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Application.AssemblyInfoInputs.cache
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Application.AssemblyInfo.cs
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Application.csproj.CoreCompileInputs.cache
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Application.dll
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Application.pdb
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Transfer.Application\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Transfer.Application\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.dll
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Transfer.Application\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Transfer.Application\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.pdb
+C:\Users\Mina Nasser\source\repos\MicroServicesRabbitMQProject\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp3.1\MicroRabbit.Transfer.Application.csproj.CopyComplete
